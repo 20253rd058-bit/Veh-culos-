@@ -8,7 +8,7 @@ public class Maiiin {
         animal1.hacerSonido();
 
 
-        
+
         System.out.println("\n=== Perro ===");
         animal2.hacerSonido(); 
     }}
